@@ -1,0 +1,12 @@
+{
+  "name": "adepiper/fatfreetutorial",
+  "authors": [
+    {
+      "name": "adepiper",
+      "email": "tobi@roadpreppers.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree": "3.7.2"
+  }
+}
